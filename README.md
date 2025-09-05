@@ -1,1 +1,1 @@
-# kadai-app-deploy
+# streamli-llm-deploy
